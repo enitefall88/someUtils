@@ -11,4 +11,9 @@ function divide(a, b) {
 function power(a, b) {
 let result = Math.pow(a,b);
 return result;
+};
+
+function subtract(a, b) {
+let result = a-b;
+return result;
 }
